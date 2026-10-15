@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/django-mysql/commit/bb19ecea2dee440c8e81f9364d60a5829813198b",
       "git:hexsha": "bb19ecea2dee440c8e81f9364d60a5829813198b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/django-mysql/commit/d5a0527c63f5e17ac08746eec82cdf8b460aac22",
