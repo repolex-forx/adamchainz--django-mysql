@@ -1,0 +1,11 @@
+{
+  "org": "adamchainz",
+  "repo": "django-mysql",
+  "versions": [
+    {
+      "commit": "bb19ecea2dee440c8e81f9364d60a5829813198b",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:00:18.099832+00:00"
+    }
+  ]
+}
